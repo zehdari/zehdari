@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Engineering Student and Robotics Enthusiast</h3>
 <h3 align="left">About Me:</h3>
 <p align="left">
-I'm currently the software lead for the Ohio State University Underwater Robotics Team. Our team is dedicated to developing advanced autonomous underwater vehicles for competition and research. You can check out our work on our <a href="https://www.github.com/osu-uwrt" target="_blank" rel="noreferrer">GitHub</a>.
+I'm currently the Vice President for the Ohio State University Underwater Robotics Team. Our team is dedicated to developing advanced autonomous underwater vehicles for competition and research. You can check out our work on our <a href="https://www.github.com/osu-uwrt" target="_blank" rel="noreferrer">GitHub</a>.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
